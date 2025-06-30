@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Week1_AlgorithmsDataStructures/2_E-commercePlatformSearchFunction/Code"/>
+	<classpathentry kind="src" path="Week1_AlgorithmsDataStructures/7_FinancialForecasting/Code"/>
+	<classpathentry kind="src" path="Week1_DesignPrinciples&amp;Pattern/1_SingletonPattern/Code/SingletonPatternExample"/>
+	<classpathentry kind="src" path="Week1_DesignPrinciples&amp;Pattern/2_FactoryMethodPattern/Code/FactoryMethodPatternExample"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
